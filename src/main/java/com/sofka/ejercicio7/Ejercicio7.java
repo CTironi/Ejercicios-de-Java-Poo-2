@@ -14,7 +14,7 @@ public class Ejercicio7 {
         1 en lugar de la 0, esto nadamas por un motivo estetico a la hora de imprimir en consola
         y dar una informacion mas clara*/
 
-        
+
         for(int i = 1; i <= 20; i++){
             System.out.print("Ingrese calificacion " + i + " : ");
             calificacion = entrada.nextInt();
