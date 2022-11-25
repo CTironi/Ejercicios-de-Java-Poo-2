@@ -1,4 +1,4 @@
-package ejercicio2;
+package com.sofka.ejercicio2;
 
 public class Ejercicio2 {
 
